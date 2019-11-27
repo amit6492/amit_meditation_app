@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912913830824",
+    "firebase_url": "https://amit-meditation-app.firebaseio.com",
+    "project_id": "amit-meditation-app",
+    "storage_bucket": "amit-meditation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912913830824:android:393b9128cfb81aaf42839d",
+        "android_client_info": {
+          "package_name": "com.example.amitmeditationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912913830824-o4g58kdlsjtil789mtebr2u8a9ndeb81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokZtsY-psJfFbfPQxuSvJVNPJvPy01G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912913830824-o4g58kdlsjtil789mtebr2u8a9ndeb81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

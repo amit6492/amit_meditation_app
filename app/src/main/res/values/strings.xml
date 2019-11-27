@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amit Meditation App</string>
+    <string name="meditation">Meditation</string>
+    <string name="calm_down">Calm Down</string>
+    <string name="destress">Destress</string>
+    <string name="relax">Relax</string>
+
+</resources>
